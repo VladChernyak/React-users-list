@@ -1,0 +1,18 @@
+.user {
+  font-size: 14px;
+  padding: 5px 0;
+}
+
+.name {
+  font-weight: 700;
+  margin-bottom: 0.4em;
+}
+
+.description {
+  color: #777;
+}
+
+.description > div {
+  margin-bottom: 0.3em;
+  font-weight: 300;
+}
